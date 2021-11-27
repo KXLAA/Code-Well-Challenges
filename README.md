@@ -18,6 +18,14 @@ This repository contains links to my submissions to the frontend development cha
   - [Demo](#demo-3)
   - [Details](#details-3)
   - [Built With](#built-with-3)
+- [IndieBrew Landing Page](#indiebrew-landing-page)
+  - [Demo](#demo-4)
+  - [Details](#details-4)
+  - [Built With](#built-with-4)
+- [Unifeed Blog Page](#unifeed-blog-page)
+  - [Demo](#demo-5)
+  - [Details](#details-5)
+  - [Built With](#built-with-5)
 
 
 ## Spense Landing Page
@@ -85,3 +93,69 @@ This repository contains links to my submissions to the frontend development cha
 - Flexbox
 - CSS Grid
 - SCSS
+
+## IndieBrew Landing Page
+### Demo
+![](assets/indiebrew-landing-page.gif)
+
+### Details
+- Challenge : [IndieBrew Landing Page](https://www.codewell.cc/challenges/indiebrew-landing-page--608aca51650dff001599e8f9)
+- Solution URL: [Github Repo](https://github.com/KXLAA/CW-04-IndieBrew-landing-page.git)
+- Live Site URL: [Live Preview](https://kxlaa.github.io/CW-04-IndieBrew-landing-page/)
+  
+### Built With
+- HTML5
+- Vanilla JS
+- Flexbox
+- CSS Grid
+- SCSS
+
+## Unifeed Blog Page
+### Demo
+![](assets/unifeed-blog-page.gif)
+
+### Details
+- Challenge : [Unifeed Blog Page](https://www.codewell.cc/challenges/unifeed-blog-page--608d9d5c747bad001532bd7c)
+- Solution URL: [Github Repo](https://github.com/KXLAA/CW-05-Unifeed-Blog-Page)
+- Live Site URL: [Live Preview](https://kxlaa.github.io/CW-05-Unifeed-Blog-Page/)
+  
+### Built With
+- HTML5
+- Vanilla JS
+- Flexbox
+- CSS Grid
+- SCSS
+
+
+<!-- ## TimeNow Landing Page
+### Demo
+![](assets/communie-waitlist.png)
+
+### Details
+- Challenge : [TimeNow Landing Page](https://www.codewell.cc/challenges/timenow-landing-page--608d9a7d747bad001532bd70)
+- Solution URL: [Github Repo](https://github.com/KXLAA/CW-01-communie-waitlist)
+- Live Site URL: [Live Preview](https://kxlaa.github.io/CW-01-communie-waitlist/)
+  
+### Built With
+- HTML5
+- Vanilla JS
+- Flexbox
+- CSS Grid
+- SCSS -->
+
+<!-- ## Snipper Landing Page
+### Demo
+![](assets/communie-waitlist.png)
+
+### Details
+- Challenge : [Snipper Landing Page](https://www.codewell.cc/challenges/snipper-landing-page--608bbe67e0984a001540d79b)
+- Solution URL: [Github Repo](https://github.com/KXLAA/CW-01-communie-waitlist)
+- Live Site URL: [Live Preview](https://kxlaa.github.io/CW-01-communie-waitlist/)
+  
+### Built With
+- HTML5
+- Vanilla JS
+- Flexbox
+- CSS Grid
+- SCSS -->
+
