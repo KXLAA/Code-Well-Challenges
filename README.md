@@ -22,7 +22,7 @@ This repository contains links to my submissions to the frontend development cha
 
 ## Spense Landing Page
 ### Demo
-![](Assets/spense-landing-page.gif)
+![](assets/spense-landing-page.gif)
 
 ### Details
 - Challenge : [Spense Landing Page](https://www.codewell.cc/challenges/spense-landing-page--608a7a859691700015db16c5)
@@ -38,7 +38,7 @@ This repository contains links to my submissions to the frontend development cha
 
 ## Fiber Landing Page
 ### Demo
-![](Assets/fiber-landing-page.gif)
+![](assets/fiber-landing-page.gif)
 
 ### Details
 - Challenge : [Fiber Landing Page ](https://www.codewell.cc/challenges/fiber-landing-page--608a7e639691700015db16d1)
@@ -54,7 +54,7 @@ This repository contains links to my submissions to the frontend development cha
 
 ## Commune Waitlist Page
 ### Demo
-![](Assets/communie-waitlist.png)
+![](assets/communie-waitlist.png)
 
 ### Details
 - Challenge : [Commune Waitlist Page](https://www.codewell.cc/challenges/commune-waitlist-page--608d9565747bad001532bd64)
@@ -71,7 +71,7 @@ This repository contains links to my submissions to the frontend development cha
 
 ## Remix Template
 ### Demo 
-![](Assets/remix-template.gif)
+![](assets/remix-template.gif)
 
 
 ### Details
